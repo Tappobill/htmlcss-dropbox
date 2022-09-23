@@ -24,15 +24,28 @@
     margin-bottom: 12rem;
 }
 
+.m-bot2{
+    margin-bottom: 1rem;
+}
+
 .b-blue{
     border: 1px solid cornflowerblue;
     background-color: cornflowerblue;
     color: white;
+    padding: 0.3rem 1rem;    
+}
+
+.b-blue1{
+    border: 1px solid cornflowerblue;
+    background-color: cornflowerblue;
+    color: white;
     padding: 0.3rem 1rem;
+    width: 100%;
 }
 
 .jumbo{
     background-color: lightblue;
+    margin-bottom: 10rem;
 }
 
 .dim{
@@ -63,4 +76,42 @@
     flex-basis: 30%;
 }
 
+.container-1{
+    width: 40%;
+    margin: auto;
+}
+
+hr{
+    width: 20%;
+}
+
+.container-2{
+    display: flex;
+    justify-content: space-between
+}
+
+.col{
+    flex-basis: 30%;
+}
+
+.l-height{
+    line-height: 2rem;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+.center{
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.bold1{
+    font-weight: bold;
+    font-size: 1.5em;
+}
 
