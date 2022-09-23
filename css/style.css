@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;    
+    align-items: center;
+    flex-basis: 25%;
+}
+
+.m-right{
+    margin-right: 1rem;
+}
+
+.b-blue{
+    border: 1px solid cornflowerblue;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 0.2rem 1rem;
+}
