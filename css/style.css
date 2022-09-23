@@ -16,9 +16,51 @@
     margin-right: 1rem;
 }
 
+.m-bot{
+    margin-bottom: 3rem;
+}
+
+.m-bot1{
+    margin-bottom: 12rem;
+}
+
 .b-blue{
     border: 1px solid cornflowerblue;
     background-color: cornflowerblue;
     color: white;
-    padding: 0.2rem 1rem;
+    padding: 0.3rem 1rem;
 }
+
+.jumbo{
+    background-color: lightblue;
+}
+
+.dim{
+    width: 60%;
+    margin: auto;    
+}
+
+.jumbo-f{
+    display: flex;
+    justify-content: space-between;        
+}
+
+.title{    
+    font-size: 5em;
+    padding-top: 5rem;
+    padding-bottom: 5rem;    
+}
+
+.jumbo-img{
+    width: 100%;
+}
+
+.text{
+    flex-basis: 60%;
+}
+
+.jumbo-img{
+    flex-basis: 30%;
+}
+
+
