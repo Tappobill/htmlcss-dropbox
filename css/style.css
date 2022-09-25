@@ -179,3 +179,74 @@ h2{
     flex-wrap: wrap;
 }
 
+.size{
+    width: calc(100% / 3);
+    height: calc(100vw / 3);    
+}
+
+.size-1{
+    width: calc(100% / 2);
+    height: calc(100% / 2);
+    align-items: center;
+}
+
+.size-i img{
+    width: 100%;
+    padding: 3rem;
+    filter: invert(97%) sepia(48%) saturate(4%) hue-rotate(134deg) brightness(103%) contrast(101%); 
+}
+
+.green{
+    background-color: green;
+    border: solid 0.8rem lightgreen;
+}
+
+.d-red{
+    background-color: darkred;
+}
+
+.l-blue{
+    background-color: cornflowerblue;
+}
+
+.red{
+    background-color: red;
+}
+
+.crim{
+    background-color: crimson;
+}
+
+.cele{
+    background-color: cyan;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yel{
+    background-color: yellow;
+}
+
+.des img{
+    width: 60%;
+    margin-bottom: 2rem;       
+}
+
+.des{
+    padding: 2rem;
+    background-color: beige;
+}
+
+.flex2{
+    display: flex;
+    justify-content: space-around;
+    padding: 6rem;
+}
+
+
+
+
+
+
