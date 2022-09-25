@@ -20,6 +20,10 @@
     margin-right: 1rem;
 }
 
+.m-right1{
+    margin-right: 0.5rem;
+}
+
 .m-bot{
     margin-bottom: 3rem;
 }
@@ -103,7 +107,7 @@ hr{
 }
 
 h2{
-    font-size: 3rem;
+    font-size: 2.5em;
 }
 
 .center{
@@ -133,7 +137,7 @@ h2{
 }
 
 .f-bas{
-    flex-basis: 25%;
+    flex-basis: 30%;
 }
 
 .f-bas1{
@@ -165,5 +169,13 @@ h2{
     background-color: white;
     padding: 0.5rem;
     border: solid 1px black;
+}
+
+.business img{
+    width: 100%;
+}
+
+.f-wrap{
+    flex-wrap: wrap;
 }
 
