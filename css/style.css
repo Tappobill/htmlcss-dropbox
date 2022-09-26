@@ -7,7 +7,7 @@
 }
 
 header{
-    border-bottom: 1px solid #f5f5f5;
+    border-bottom: 1px solid black;
     position: sticky;
     top: 0;
     z-index: 1;
@@ -258,6 +258,18 @@ h2{
     width: 100%;
 }
 
+.line-h{
+    line-height: 1rem;
+}
 
+.foot{
+    background-color: black;
+    color: white;
+}
+
+.hr-foot{
+    color: white;
+    width: 10%;    
+}
 
 
